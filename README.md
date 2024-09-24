@@ -47,9 +47,9 @@ Process:
 A working demonstration was presented, showcasing the full pipeline from PDF text extraction to question-answering using the chatbot interface.
 
 
-![Image 1](![image](https://github.com/user-attachments/assets/b1d4ca2a-3400-4859-9921-e4b5d85d5b7d)
+![Image 1](![image](https://github.com/Isha-singh-01/Document-based-chatbot/blob/0391629b2975be068367f4fcf9e1125025b5cad1/Picture2.png)
 )
-![Image 2 - Chatbot](![image](https://github.com/user-attachments/assets/d6d00a60-2956-43ff-975c-d1d6017326d0)
+![Image 2 - Chatbot](https://github.com/Isha-singh-01/Document-based-chatbot/blob/0391629b2975be068367f4fcf9e1125025b5cad1/Picture1.png)
 )
 
 ---
