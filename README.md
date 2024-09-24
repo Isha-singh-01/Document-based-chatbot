@@ -49,7 +49,7 @@ A working demonstration was presented, showcasing the full pipeline from PDF tex
 
 ![Image 1](![image](https://github.com/Isha-singh-01/Document-based-chatbot/blob/0391629b2975be068367f4fcf9e1125025b5cad1/Picture2.png)
 )
-![Image 2 - Chatbot](https://github.com/Isha-singh-01/Document-based-chatbot/blob/0391629b2975be068367f4fcf9e1125025b5cad1/Picture1.png)
+![Image 2 - Chatbot](https://github.com/Isha-singh-01/Document-based-chatbot/blob/6f9cc9da3742f9adca7dd9599122572f6d055141/Picture1.png)
 )
 
 ---
