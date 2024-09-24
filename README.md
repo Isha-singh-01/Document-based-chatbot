@@ -20,7 +20,7 @@ The chatbot system is structured with the following components:
 Process:
 - The system extracts text, splits it into chunks, generates embeddings, and stores them in FAISS.
 - User queries are converted into embeddings and searched against stored embeddings to retrieve relevant text.
-- Language models generate context-aware responses.
+- Language models generate context-aware responses i.e. only answers based on the context of the pdf.
 
 ---
 
@@ -44,11 +44,6 @@ Process:
 
 ### Demo
 
-A working demonstration was presented, showcasing the full pipeline from PDF text extraction to question-answering using the chatbot interface.
-
-
-![Image 1](![image](https://github.com/Isha-singh-01/Document-based-chatbot/blob/972f2dcfd1b4e93703cc43e7501fcdf1d09e2060/Picture2.png)
-)
 ![Image 2 - Chatbot](https://github.com/Isha-singh-01/Document-based-chatbot/blob/6f9cc9da3742f9adca7dd9599122572f6d055141/Picture1.png)
 )
 
